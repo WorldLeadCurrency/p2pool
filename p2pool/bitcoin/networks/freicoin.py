@@ -1,3 +1,4 @@
+'''
 import os
 import platform
 
@@ -351,3 +352,4 @@ ADDRESS_EXPLORER_URL_PREFIX='http://coinplorer.com/FRC/Addresses/'
 TX_EXPLORER_URL_PREFIX = 'https://blockchain.info/Transactions/'
 SANE_TARGET_RANGE=(2**256//2**32 - 1, 2**256//2**32 - 1)
 DUST_THRESHOLD = 0.001e8
+'''
